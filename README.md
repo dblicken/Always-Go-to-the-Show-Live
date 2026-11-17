@@ -1,4 +1,4 @@
-# Always Go to the Show: New England Edition
+# Always Go to the Show: Downeaster Edition
 
 The published page only. Live at https://dblicken.github.io/Always-Go-to-the-Show-Live/
 
